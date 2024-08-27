@@ -1,0 +1,16 @@
+{
+  "name": "graphql-todo-app",
+  "version": "1.0.0",
+  "description": "Learning building graphql APIs using Apollo Server.",
+  "main": "index.js",
+  "author": "Dhruv Solanki",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.11.0",
+    "express": "^4.19.2",
+    "graphql": "^16.9.0"
+  }
+}
